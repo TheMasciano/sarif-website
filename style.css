@@ -1,5 +1,39 @@
-*{
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap');
+
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'PT Serif', serif;
 }
+
+body{
+    background-color: rgb(158, 158, 158);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+
+header h1 b{
+    font-size: 39px;
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+.robotic-hand{
+    width: 100%;
+}
+
+.produtos{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
