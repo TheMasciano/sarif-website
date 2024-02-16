@@ -1,0 +1,8 @@
+.jobs-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.job{
+    padding: 10px;
+    border: 1px solid black;
+}
