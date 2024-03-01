@@ -49,3 +49,9 @@ header li a{
     margin-top: 30px;
 }
 
+.logo{
+    display: flex;
+}
+.logo img{
+    width: 39px;
+}

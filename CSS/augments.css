@@ -1,0 +1,16 @@
+.AUGs{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+
+.AUGs img{
+    width: 600px;
+}
+
+.pageDescription{
+    margin-bottom: 15px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
